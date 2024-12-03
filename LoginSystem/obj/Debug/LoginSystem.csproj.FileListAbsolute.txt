@@ -1,0 +1,13 @@
+C:\Users\nielm\OneDrive\Desktop\Code 2023\C# Codes 2023 - BSIT Second Sem\LoginSystem\LoginSystem\bin\Debug\LoginSystem.exe.config
+C:\Users\nielm\OneDrive\Desktop\Code 2023\C# Codes 2023 - BSIT Second Sem\LoginSystem\LoginSystem\bin\Debug\LoginSystem.exe
+C:\Users\nielm\OneDrive\Desktop\Code 2023\C# Codes 2023 - BSIT Second Sem\LoginSystem\LoginSystem\bin\Debug\LoginSystem.pdb
+C:\Users\nielm\OneDrive\Desktop\Code 2023\C# Codes 2023 - BSIT Second Sem\LoginSystem\LoginSystem\obj\Debug\LoginSystem.csproj.AssemblyReference.cache
+C:\Users\nielm\OneDrive\Desktop\Code 2023\C# Codes 2023 - BSIT Second Sem\LoginSystem\LoginSystem\obj\Debug\LoginSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\nielm\OneDrive\Desktop\Code 2023\C# Codes 2023 - BSIT Second Sem\LoginSystem\LoginSystem\obj\Debug\LoginSystem.Properties.Resources.resources
+C:\Users\nielm\OneDrive\Desktop\Code 2023\C# Codes 2023 - BSIT Second Sem\LoginSystem\LoginSystem\obj\Debug\LoginSystem.csproj.GenerateResource.cache
+C:\Users\nielm\OneDrive\Desktop\Code 2023\C# Codes 2023 - BSIT Second Sem\LoginSystem\LoginSystem\obj\Debug\LoginSystem.csproj.CoreCompileInputs.cache
+C:\Users\nielm\OneDrive\Desktop\Code 2023\C# Codes 2023 - BSIT Second Sem\LoginSystem\LoginSystem\obj\Debug\LoginSystem.exe
+C:\Users\nielm\OneDrive\Desktop\Code 2023\C# Codes 2023 - BSIT Second Sem\LoginSystem\LoginSystem\obj\Debug\LoginSystem.pdb
+C:\Users\nielm\OneDrive\Desktop\Code 2023\C# Codes 2023 - BSIT Second Sem\LoginSystem\LoginSystem\obj\Debug\LoginSystem.Login.resources
+C:\Users\nielm\OneDrive\Desktop\Code 2023\C# Codes 2023 - BSIT Second Sem\LoginSystem\LoginSystem\obj\Debug\LoginSystem.Youtube.resources
+C:\Users\nielm\OneDrive\Desktop\Code 2023\C# Codes 2023 - BSIT Second Sem\LoginSystem\LoginSystem\obj\Debug\LoginSystem.Reg.resources
